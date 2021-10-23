@@ -13,40 +13,47 @@ OS boot process
 - [x] init script
 
 # Python
-List -  collection which is ordered and changeable. Allows duplicate members.
-Tuple - collection which is ordered and unchangeable. Allows duplicate members.
-Set -  collection which is unordered, unchangeable, and unindexed. No duplicate members.
-Dictionary -  collection which is ordered* and changeable. No duplicate members.
+- List -  collection which is ordered and changeable. Allows duplicate members.
+- Tuple - collection which is ordered and unchangeable. Allows duplicate members.
+- Set -  collection which is unordered, unchangeable, and unindexed. No duplicate members.
+- Dictionary -  collection which is ordered* and changeable. No duplicate members.
 
 # Terraform
-tf init
-tf plan
--dry run
-tf apply
-tf destroy
+- tf init
+- tf plan
+- dry run
+- tf apply
+- tf destroy
 
 # Cloudformation
-find in map
-Nested stack
-Cloudformation set
+- find in map
+- Nested stack
+- Cloudformation set
 
 # msmq
-fan out
-when to use message queuing systems
+- fan out
+- when to use message queuing systems
 
-SOA
-Async
-Soap vs rest
-SSL/TLS
+# SDLC
+- SOA
+- Async
+- Soap vs rest
+- SSL/TLS
 
-#Route53
-type of 
-a record
-cname
-soa
-name servers
+# Route53
+- type of 
+- a record
+- cname
+- soa
+- name servers
 
-dynamo db - backup
+# RDS
+- Cluster
+- Multi AZ
+- Reader
+- Writer
+
+  dynamo db - backup
 
 # CORS
 
