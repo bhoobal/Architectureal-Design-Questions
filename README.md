@@ -38,6 +38,13 @@ OS boot process
 - SOA
 - Async
 - Soap vs rest
+  - SOAP - Protocol
+     - XML as response
+     - WSDl
+
+  - REST - Architecture pattern
+     - XML, JSON, HTML
+     
 - SSL/TLS
 
 # Route53
