@@ -7,7 +7,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html#access_pol
 
 # Linux
 OS boot process
-[] Bios
+- [] Bios
 [] MBR
 [] Kernal
 [] init script
