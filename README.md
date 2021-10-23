@@ -7,10 +7,10 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html#access_pol
 
 # Linux
 OS boot process
-- [ ] Bios
-- [ ] MBR
-- [ ] Kernal
-- [ ] init script
+- [x] Bios
+- [x] MBR
+- [x] Kernal
+- [x] init script
 
 # Python
 List -  collection which is ordered and changeable. Allows duplicate members.
