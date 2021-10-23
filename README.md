@@ -38,6 +38,7 @@ OS boot process
 - SOA
 - Async
 - Soap vs rest
+- Simple Object Access Protocol Vs Representational State Transfer
   - SOAP - Protocol
      - XML as response
      - WSDl
